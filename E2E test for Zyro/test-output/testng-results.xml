@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-31T17:26:52 EEST" name="Default suite" finished-at="2020-05-31T17:27:56 EEST" duration-ms="64396">
+    <groups>
+    </groups>
+    <test started-at="2020-05-31T17:26:52 EEST" name="Default test" finished-at="2020-05-31T17:27:56 EEST" duration-ms="64396">
+      <class name="Tests.TemplatePreviewTest">
+        <test-method signature="templatesPreviewTest()[pri:0, instance:Tests.TemplatePreviewTest@21507a04]" started-at="2020-05-31T17:26:52 EEST" name="templatesPreviewTest" finished-at="2020-05-31T17:27:56 EEST" duration-ms="64369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- templatesPreviewTest -->
+      </class> <!-- Tests.TemplatePreviewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
